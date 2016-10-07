@@ -1,0 +1,2 @@
+pythonwhois==2.4.3
+urllib3==1.13.1
